@@ -47,7 +47,7 @@ Example:
 'I am in only red!'.insertRGB(rgb(255,0,0));
 ```
 
-![img_2.png](docs/img_2.png)
+![img_2.png](https://raw.githubusercontent.com/thevvx/crayon/main/docs/img_2.png)
 
 ### insertRGBEvenly(...colours)
 Inserts the given colours into the string.
@@ -59,7 +59,7 @@ Example:
 'I am in only red!'.insertRGBEvenly(rgb(255,0,0));
 ```
 
-![img.png](docs/img.png)
+![img.png](https://raw.githubusercontent.com/thevvx/crayon/main/docs/img.png)
 
 ### splitRGB(splitter, ...colours)
 Character will be coloured by its group in the string.
@@ -70,7 +70,7 @@ Example:
 'This--is--text--split--by--dashes'.splitRGB('--', rgb(255,0,74), rgb(15,222,145));
 ```
 
-![img.png](docs/img_3.png)
+![img.png](https://raw.githubusercontent.com/thevvx/crayon/main/docs/img_3.png)
 
 # Pre-existing colours
 - red
