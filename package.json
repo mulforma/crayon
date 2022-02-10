@@ -1,6 +1,6 @@
 {
   "name": "node-crayon",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Easily colour your text in terminal",
   "main": "index.js",
   "scripts": {
