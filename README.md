@@ -35,7 +35,9 @@ console.log('Wow! This theme is awesome'.insertRGB(...theme));
 ### rgb(r, g, b)
 Returns an  with the given RGB values.
 
-  rgb(255, 0, 0); // => "\u001b[38;2;255;0;0m"
+````javascript
+rgb(255, 0, 0); // => "\x1b[38;2;255;0;0m"
+````
   
 ### insertRGB(...colours)
 Inserts the given colours into the string.
