@@ -114,7 +114,7 @@ Inserts the given colours into the string. (For background)
 Example:
 
 ```javascript
-'I am in red and blue background!'.insertBackground(rgb(255, 0, 0), rgb(0, 0, 255));
+'I am in red and blue background!'.insertBackground(rgbBackground(255, 0, 0), rgbBackground(0, 0, 255));
 ```
 
 ![img.png](https://i.ibb.co/5FBtPCV/Screenshot-26.png)
