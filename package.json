@@ -1,6 +1,6 @@
 {
   "name": "node-crayon",
-  "version": "1.0.7",
+  "version": "1.1.0",
   "description": "Easily colour your text in terminal",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,11 @@
     "colour",
     "color",
     "colours",
-    "colors"
+    "colors",
+    "terminal",
+    "console",
+    "cli",
+    "rgb"
   ],
   "author": "thevvx",
   "license": "Apache-2.0",
